@@ -1,0 +1,12 @@
+# any line that starts with '#' is a comment and does not get parsed
+# if the first non-comment, non-empty line starts with '@version' the rest of the line will be
+#parsed as the intended version to use
+
+@version 1.21.11
+
+
+#mod go slugs here...
+
+modmenu
+iris
+
